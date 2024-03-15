@@ -1,0 +1,32 @@
+.text-fild{
+	-fx-background-color: rgba(163, 163, 163, 0.43);
+}
+
+.custom-text-field{
+	-fx-background-color: transparent;
+	-fx-font-family: 'Arial Black';
+	-fx-text-fill: white;
+}
+
+.VBox{
+	-fx-background-color: rgba(74, 194, 173, 0.43);
+}
+
+.button-next{
+	-fx-background-color: rgba(74, 165, 194, 0.43);
+}
+
+.contentAnchorPane{
+	-fx-text-fill: black;
+}
+
+.viewFiveDays{
+	-fx-background-color: rgba(106, 202, 243, 0.43);
+}
+
+.mainVBoxInterestingFacts{
+	-fx-background-color: rgba(106, 202, 243, 0.61);
+}
+
+.closeButton{	-fx-background-color: rgba(158, 170, 175, 0.61);
+}
